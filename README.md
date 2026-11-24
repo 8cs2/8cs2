@@ -5,7 +5,6 @@
 ```ini
 [ user_information ]
 
-alias     = 8cs2
 focus     = software & cybersecurity
 stack     = c++, py, js, rust, php
 languages = ru / en / pt-br
