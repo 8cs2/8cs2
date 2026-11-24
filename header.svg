@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="850" height="180" viewBox="0 0 850 180">
+
+  <style>
+    .bg {
+      fill: #100c16;
+      stroke: #493062;
+    }
+
+    .name {
+      fill: #b48cfa;
+      font: bold 58px monospace;
+      letter-spacing: 10px;
+    }
+
+    .subtitle {
+      fill: #a28ab8;
+      font: 14px monospace;
+      letter-spacing: 4px;
+    }
+
+    .footer {
+      fill: #78648d;
+      font: 11px monospace;
+      letter-spacing: 3px;
+    }
+  </style>
+
+  <rect class="bg"
+        x="1" y="1"
+        width="848" height="178" rx="5"/>
+
+  <g text-anchor="middle">
+    <text class="name" x="425" y="82">8cs2</text>
+
+    <text class="subtitle" x="425" y="114">
+      INDEPENDENT DEVELOPER
+    </text>
+
+    <text class="footer" x="425" y="149">
+      SOFTWARE / SECURITY / NETWORKING
+    </text>
+  </g>
+
+</svg>
